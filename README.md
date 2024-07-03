@@ -10,7 +10,7 @@ I'm a Technical Analyst with the BC Public Service. I love working with technolo
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools:
   
 <div>
   <a href="https://www.ruby-lang.org/en/"><img src="icons/ruby.svg" title="Ruby" alt="Ruby" width="40" height="40"/></a>&nbsp;
