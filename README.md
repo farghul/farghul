@@ -13,6 +13,7 @@ I'm a Technical Analyst with the BC Public Service. I love working with technolo
 ### :hammer_and_wrench: Languages and Tools:
   
 <div>
+  <a href="https://dart.dev/"><img src="icons/dart.svg" title="Dart" alt="Go" width="40" height="40"/></a>&nbsp;
   <a href="https://www.ruby-lang.org/en/"><img src="icons/ruby.svg" title="Ruby" alt="Ruby" width="40" height="40"/></a>&nbsp;
   <a href="https://go.dev/"><img src="icons/go.svg" title="Go" alt="Go" width="40" height="40"/></a>&nbsp;
   <a href="https://helm.sh/"><img src="icons/helm.svg" title="Helm" alt="Helm" width="40" height="40"/></a>&nbsp;
